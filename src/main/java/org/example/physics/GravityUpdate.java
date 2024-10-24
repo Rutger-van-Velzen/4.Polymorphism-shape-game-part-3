@@ -1,6 +1,6 @@
-package org.example;
+package org.example.physics;
 
-import org.example.Shapes.GravityObject;
+import org.example.Panel;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

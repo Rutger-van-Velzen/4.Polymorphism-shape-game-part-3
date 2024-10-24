@@ -1,4 +1,4 @@
-package org.example.Shapes;
+package org.example.physics;
 
 public interface GravityObject {
     void applyGravity();

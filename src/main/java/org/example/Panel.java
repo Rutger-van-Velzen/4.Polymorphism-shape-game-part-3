@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.Shapes.Drawable;
+import org.example.shapes.Drawable;
 
 import javax.swing.*;
 import java.awt.*;

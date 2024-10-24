@@ -1,6 +1,7 @@
 package org.example;
 
-import org.example.Shapes.*;
+import org.example.shapes.*;
+import org.example.physics.GravityUpdate;
 
 import javax.swing.*;
 

@@ -1,12 +1,13 @@
-package org.example.Shapes;
+package org.example.shapes;
 
-import org.example.GravityUpdate;
+import org.example.physics.GravityUpdate;
 import org.example.Panel;
+import org.example.physics.GravityObject;
 
 import java.awt.*;
 import java.awt.geom.Ellipse2D;
 
-public class MyCircle implements Drawable, GravityObject{
+public class MyCircle implements Drawable, GravityObject {
     private double y = 100;
     private final Ellipse2D self = new Ellipse2D.Double(100, y, 50, 50);
 

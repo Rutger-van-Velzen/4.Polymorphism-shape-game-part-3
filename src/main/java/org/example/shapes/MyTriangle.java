@@ -1,4 +1,4 @@
-package org.example.Shapes;
+package org.example.shapes;
 
 import org.example.Panel;
 
