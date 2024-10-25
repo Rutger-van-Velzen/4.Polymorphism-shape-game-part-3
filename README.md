@@ -16,8 +16,7 @@ Bothe should implement the same interface, this way you can replay a call to thi
 Where should you relay the call to?, To the implemented method in `CircleColliderBehaviour` like so:
 
 ```java
-private final CircleColliderBehaviour collider = new CircleColliderBehaviour(this);
-
+private final Collider collider = new CircleColliderBehaviour(this);
 // some code
 
 @Override
